@@ -1,2 +1,0 @@
-# Story
-my new story!
